@@ -1,5 +1,5 @@
 package world
 
 func GetWorld() string {
-return "from package world"
+  return "sting from package world"
 }
